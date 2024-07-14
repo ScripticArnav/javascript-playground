@@ -24,7 +24,7 @@ Welcome to the JavaScript Playground repository! This repository serves as a col
 15. [DOM Crud](https://scripticarnav.github.io/javascript-playground/15-crudDom/index.html) - 📌 Perform CRUD operations on the DOM.
 16. [Debouncing](https://scripticarnav.github.io/javascript-playground/16-debounce/index.html) - 🏀 Implement debouncing technique.
 17. [Card - Hitesh Chaudhary](https://scripticarnav.github.io/javascript-playground/17-card/index.html) - 👨🏻‍💻 Card inspired by Hitesh Chaudhary.
-17. [Card - Hitesh Chaudhary](https://scripticarnav.github.io/javascript-playground/18-Ask_on_date-main/index.html) - 🫶👨🏻‍💻 Hmm Okay!!
+17. [Fun Project](https://scripticarnav.github.io/javascript-playground/18-Ask_on_date-main/index.html) - 🫶👨🏻‍💻 Hmm Okay!!
 
 ## Navigation
 
